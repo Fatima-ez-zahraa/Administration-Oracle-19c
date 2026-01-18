@@ -1,115 +1,84 @@
-# Administration-Oracle-19c📊 Suivi d’un Projet RH – Recrutement
-🗄️ Mini Projet SQL (2025–2026)
+# 📊 Suivi d’un Projet RH – Recrutement  
+### 🗄️ Mini Projet SQL (2025–2026)
 
+---
 
-📌 Contexte du projet
+## 📌 Présentation du projet
 
-Avec la multiplication des candidatures, les entreprises font face à plusieurs difficultés :
+![Introduction](docs/images/3.png)
 
-❌ Manque d’organisation des entretiens et des tests
+Ce projet vise à mettre en place une **base de données relationnelle** permettant d’assurer un suivi efficace du processus de recrutement RH.
 
-❌ Faible visibilité sur l’avancement du recrutement
+---
 
-❌ Absence de suivi centralisé et structuré
+## 🚧 Défis du projet
 
-❌ Difficulté à prendre des décisions rapides et fiables
+![Défis](docs/images/5.png)
 
-❓ Problématique
+- Multiplication des candidatures  
+- Mauvaise organisation des entretiens et tests  
+- Manque de visibilité sur l’avancement  
+- Difficulté de suivi centralisé  
 
-Comment une entreprise peut-elle gérer efficacement un grand nombre de candidats, d’entretiens, de postes vacants et d’étapes du processus de recrutement, tout en garantissant :
+---
 
-la cohérence des données,
+## ❓ Problématique
 
-la traçabilité du suivi,
+![Problématique](docs/images/slide3_problematique.png)
 
-et la rapidité dans la prise de décision RH ?
+> Comment une entreprise peut-elle gérer efficacement les candidats, les postes, les entretiens et les étapes RH tout en garantissant la cohérence des données et une prise de décision rapide ?
 
-💡 Solution proposée
+---
 
-Mise en place d’une base de données relationnelle centralisée permettant de :
+## 💡 Solution proposée
 
-gérer les candidats, postes, entretiens, tests et compétences,
+![Solution](docs/images/slide4_solution.png)
 
-assurer un suivi clair et traçable du processus RH,
+- Base de données relationnelle centralisée  
+- Modélisation des candidats, postes, entretiens, compétences  
+- Requêtes SQL pour le suivi et l’analyse RH  
 
-exploiter des requêtes SQL pour l’analyse et la prise de décision.
+---
 
-🎯 Objectifs du projet
+## 🎯 Objectifs du projet
 
-✅ Organiser et optimiser le suivi des postes
+![Objectifs](docs/images/slide5_objectifs.png)
 
-✅ Centraliser les informations des candidats
+- Centraliser les informations des candidats  
+- Optimiser le suivi des postes  
+- Améliorer la gestion des entretiens et tests  
+- Faciliter la prise de décision RH  
 
-✅ Suivre efficacement les entretiens et les tests
+---
 
-✅ Faciliter la prise de décision RH
+## 🧩 Modèle logique de données (MLD)
 
-🧩 Conception de la base de données
+![MLD](docs/images/slide6_mld.png)
 
-Modèle logique de données (MLD)
+Le modèle relationnel permet une structuration claire et cohérente des données RH.
 
-Relations structurées entre :
+---
 
-Candidats
+## 📄 Exemples de requêtes SQL
 
-Postes
+![Requêtes SQL](docs/images/slide7_requetes.png)
 
-Entretiens
+- Sélection des candidats  
+- Postes ouverts  
+- Recherche par nom  
+- Candidats avec statut *Entretien 1*  
+- Requêtes d’agrégation et mises à jour  
 
-Tests
+---
 
-Compétences
+## 🏁 Conclusion
 
-Recruteurs
+![Conclusion](docs/images/20.png)
 
-(Voir le schéma dans la documentation ou le dossier /conception)
+La solution développée offre une **vision globale et centralisée** du recrutement, améliorant l’organisation RH et la qualité des décisions.
 
-🛠️ Réalisation
-🔹 Création & Insertion
+---
 
-Création des tables SQL
+## 🙌 Remerciements
 
-Insertion des données de test
-
-Respect de l’intégrité référentielle (clés primaires / étrangères)
-
-📄 Exemples de requêtes SQL
-🔍 Requêtes de sélection
-
-Sélection de tous les candidats
-
-Affichage des postes ouverts
-
-Tests passés par les candidats
-
-Recherche de candidats par nom
-
-Candidats avec le statut "Entretien 1"
-
-Postes publiés entre deux dates
-
-✏️ Requêtes de mise à jour
-
-Mise à jour du statut d’un poste
-
-Suppression d’une compétence associée à un candidat
-
-📊 Requêtes d’agrégation
-
-Score moyen des tests par type
-
-Nombre d’entretiens par recruteur
-
-📈 Résultats & Apports
-
-✔️ Vision globale et centralisée du recrutement
-
-✔️ Meilleure organisation des entretiens
-
-✔️ Suivi précis des candidats
-
-✔️ Aide efficace à la décision RH grâce aux analyses SQL
-
-🏁 Conclusion
-
-Cette solution offre une gestion structurée et efficace du processus de recrutement, améliorant la qualité du suivi RH et accélérant la prise de décision grâce à des données fiables et centralisées.
+Merci pour votre attention.
