@@ -1,11 +1,11 @@
 # 📊 Suivi d’un Projet RH – Recrutement  
 ### 🗄️ Mini Projet SQL (2025–2026)
-
+![Plan](docs/img/2.png)
 ---
 
 ## 📌 Présentation du projet
 
-![Introduction](docs/images/3.png)
+![Introduction](docs/img/3.png)
 
 Ce projet vise à mettre en place une **base de données relationnelle** permettant d’assurer un suivi efficace du processus de recrutement RH.
 
