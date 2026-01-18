@@ -13,7 +13,7 @@ Ce projet vise à mettre en place une **base de données relationnelle** permett
 
 ## 🚧 Défis du projet
 
-![Défis](docs/images/5.png)
+![Défis](docs/img/4.png)
 
 - Multiplication des candidatures  
 - Mauvaise organisation des entretiens et tests  
@@ -24,7 +24,7 @@ Ce projet vise à mettre en place une **base de données relationnelle** permett
 
 ## ❓ Problématique
 
-![Problématique](docs/images/slide3_problematique.png)
+![Problématique](docs/img/5.png)
 
 > Comment une entreprise peut-elle gérer efficacement les candidats, les postes, les entretiens et les étapes RH tout en garantissant la cohérence des données et une prise de décision rapide ?
 
@@ -32,7 +32,7 @@ Ce projet vise à mettre en place une **base de données relationnelle** permett
 
 ## 💡 Solution proposée
 
-![Solution](docs/images/slide4_solution.png)
+![Solution](docs/img/7.png)
 
 - Base de données relationnelle centralisée  
 - Modélisation des candidats, postes, entretiens, compétences  
@@ -42,7 +42,7 @@ Ce projet vise à mettre en place une **base de données relationnelle** permett
 
 ## 🎯 Objectifs du projet
 
-![Objectifs](docs/images/slide5_objectifs.png)
+![Objectifs](docs/img/8.png)
 
 - Centraliser les informations des candidats  
 - Optimiser le suivi des postes  
@@ -53,7 +53,7 @@ Ce projet vise à mettre en place une **base de données relationnelle** permett
 
 ## 🧩 Modèle logique de données (MLD)
 
-![MLD](docs/images/slide6_mld.png)
+![MLD](docs/img/9.png)
 
 Le modèle relationnel permet une structuration claire et cohérente des données RH.
 
@@ -61,7 +61,15 @@ Le modèle relationnel permet une structuration claire et cohérente des donnée
 
 ## 📄 Exemples de requêtes SQL
 
-![Requêtes SQL](docs/images/slide7_requetes.png)
+![Requêtes SQL](docs/img/10.png)
+![Requêtes SQL](docs/img/11.png)
+![Requêtes SQL](docs/img/12.png)
+![Requêtes SQL](docs/img/13.png)
+![Requêtes SQL](docs/img/14.png)
+![Requêtes SQL](docs/img/15.png)
+![Requêtes SQL](docs/img/16.png)
+![Requêtes SQL](docs/img/17.png)
+![Requêtes SQL](docs/img/18.png)
 
 - Sélection des candidats  
 - Postes ouverts  
@@ -73,12 +81,9 @@ Le modèle relationnel permet une structuration claire et cohérente des donnée
 
 ## 🏁 Conclusion
 
-![Conclusion](docs/images/20.png)
+![Conclusion](docs/img/20.png)
 
 La solution développée offre une **vision globale et centralisée** du recrutement, améliorant l’organisation RH et la qualité des décisions.
 
 ---
 
-## 🙌 Remerciements
-
-Merci pour votre attention.
